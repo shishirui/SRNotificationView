@@ -126,14 +126,14 @@ You can force the legacy effect using the `useLegacyEffect` parameter.
 - macOS 12.0+
 - SwiftUI
 
-## 许可证
+## License
 
 MIT License
 
-## 作者
+## Author
 
 Created by rexshi on 2025/11/1.
 
-## 贡献
+## Contributing
 
-欢迎提交 Issue 和 Pull Request！
+Issues and Pull Requests are welcome!
