@@ -2,8 +2,6 @@
 
 An elegant SwiftUI notification banner component with glass morphism effect and customizable styles.
 
-## Screenshot
-
 ![Screenshot](screenshot-1.jpg)
 
 ## Features
