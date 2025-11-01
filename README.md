@@ -4,7 +4,7 @@ An elegant SwiftUI notification banner component with glass morphism effect and 
 
 ## Screenshot
 
-![Screenshot](screenshot-1.png)
+![Screenshot](screenshot-1.jpg)
 
 ## Features
 
